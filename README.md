@@ -6,7 +6,7 @@
 A browser interface based on Gradio library for Stable Diffusion running on Google Colab.
 For more detailed info please visit [this](https://en.wikipedia.org/wiki/Stable_Diffusion).
 
-<img src="https://raw.githubusercontent.com/SlavyanDesu/sd-webui-colab/master/assets/preview.png" width="100%">
+<img src="https://raw.githubusercontent.com/SlavyanDesu/sd-webui-colab/master/assets/image.png" width="100%">
 
 We provide a trained models (*SD v1.5, ChilloutMix, Grapefruit v4.1, Counterfeit v2.5*) with pre-installed extensions.
 
