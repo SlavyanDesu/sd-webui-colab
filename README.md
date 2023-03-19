@@ -8,7 +8,7 @@ For more detailed info please visit [this](https://en.wikipedia.org/wiki/Stable_
 
 <img src="https://raw.githubusercontent.com/SlavyanDesu/sd-webui-colab/master/assets/image.png" width="100%">
 
-We provide a trained models (*SD v1.5, ChilloutMix, Grapefruit v4.1, Counterfeit v2.5*) with pre-installed extensions.
+We provide a trained models (SD v1.5, ChilloutMix, Grapefruit v4.1, Counterfeit v2.5, and etc.) with pre-installed extensions.
 
 This colab is based on [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) and [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion).
 
